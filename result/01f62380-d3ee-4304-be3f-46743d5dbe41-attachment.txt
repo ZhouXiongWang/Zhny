@@ -1,0 +1,6 @@
+INFO     Logeer.log_util:Base_Page.py:32 当前页面的driver对象:None
+INFO     Logeer.log_util:Base_Page.py:53 正在下载webdriver驱动,当前浏览器版本为：114.0.5735
+INFO     Logeer.log_util:Base_Page.py:66 当前隐式等待10s
+INFO     Logeer.log_util:Base_Page.py:69 当前窗口最大化
+INFO     Logeer.log_util:Base_Page.py:32 当前页面的driver对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="0155a84fb8c2ff069ff1b02db4cfe99f")>
+INFO     Logeer.log_util:Base_Page.py:72 当前驱动已存在

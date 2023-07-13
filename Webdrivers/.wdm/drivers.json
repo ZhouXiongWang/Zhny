@@ -1,0 +1,10 @@
+{
+    "win32_chromedriver_114.0.5735_for_None": {
+        "timestamp": "10/07/2023",
+        "binary_path": "./Webdrivers\\.wdm\\drivers\\chromedriver\\win32\\114.0.5735\\chromedriver.exe"
+    },
+    "win32_chromedriver_latest_for_": {
+        "timestamp": "13/07/2023",
+        "binary_path": "E:\\Code\\Zhny/Webdrivers\\.wdm\\drivers\\chromedriver\\win32\\114.0.5735.90\\chromedriver.exe"
+    }
+}

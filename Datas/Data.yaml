@@ -1,0 +1,16 @@
+accout: guzhen
+password: Zhny@2023
+case1:
+  -
+    id: 1
+    pid: 1
+
+  -
+    id: 2
+    pid: 2
+MenuHome: (By.XPATH,'//*[@id="app"]/div/div[1]/div[3]/ul/li[1]/span')
+
+ProtalPage:
+  HomePageElement:
+    - By.XPATH
+    - '//*[@id="app"]/div/div[1]/div[3]/ul/li[1]/span'

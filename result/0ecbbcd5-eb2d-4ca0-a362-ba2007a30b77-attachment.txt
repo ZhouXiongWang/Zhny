@@ -1,0 +1,6 @@
+INFO     Logeer.log_util:Base_Page.py:29 当前页面的driver对象:None
+INFO     Logeer.log_util:Base_Page.py:50 正在下载webdriver驱动,当前浏览器版本为：114.0.5735
+INFO     Logeer.log_util:Base_Page.py:62 当前隐式等待10s
+INFO     Logeer.log_util:Base_Page.py:65 当前窗口最大化
+INFO     Logeer.log_util:Base_Page.py:202 当前句柄等于列表中第一个句柄，循环关闭页面操作结束
+INFO     Logeer.log_util:Base_Page.py:110 正在输入123
